@@ -1,7 +1,7 @@
 boxinios
 ========
 
-This is a Demo project showing how to use BoxSDK and files from their Sample apps in your own app by adding just some few lines of code.
+This is a Demo project showing how to use [BoxSDK](https://github.com/box/box-ios-sdk-v2) and files from their [Sample apps](https://github.com/box/box-ios-sdk-sample-app) in your own app by adding just some few lines of code. you will be able to navigate through the Files in your Box account in this project and use it accordingly in yours.
 
 Problems Solved
 ---------------
